@@ -7,11 +7,12 @@
     "ansi-regex": "^4.1.1",
     "prompt-sync": "^4.2.0",
     "strip-ansi": "^5.2.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.3",
     "undici-types": "^7.8.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "calc": "ts-node calculations.ts"
   },
   "repository": {
     "type": "git",

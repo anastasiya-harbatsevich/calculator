@@ -24,17 +24,9 @@ git clone https://github.com/anastasiya-harbatsevich/calculator.git
 
 npm install
 
-### Compilation
-
-# To compile all .ts files into .js:
-
-npx tsc
-
 ## Run the Calculator
 
-# After compilation, run the calculator with:
-
-node calculations.js
+npm run calc
 
 ## Usage Example
 
